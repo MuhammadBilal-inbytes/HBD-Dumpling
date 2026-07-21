@@ -97,7 +97,7 @@ const button = document.getElementById("valentinesButton");
 const quiz = document.getElementById("quiz");
 const quizFeedback = quiz.querySelector(".quiz-feedback");
 const quizOptions = quiz.querySelectorAll(".quiz-option");
-const CORRECT_ANSWER = "16";
+const CORRECT_ANSWER = "19";
 
 let emailSent = false;
 
